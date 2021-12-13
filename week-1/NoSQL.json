@@ -1,0 +1,28 @@
+{
+   "customer": {
+       "_id": 819853,
+       "first_name": "Jonathan",
+       "last_name": "Doebois",
+       "date_of_birth": "12-25-65"
+   },
+
+   "invoice":[
+        {
+            "_id": 407342134,
+            "date_created": "05-26-2018",
+            "date_shipped": "05-27-2018",
+            "subtotal": 27.90,
+            "tax": 1.37,
+            "total": 29.27
+        }
+    ],
+
+   "line_items": [
+       {
+         "_id": 59388922928,
+         "name": "Google Home Speaker",
+         "price": 14.99,
+         "qunatity": 47
+       }
+   ]
+}
